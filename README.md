@@ -35,7 +35,7 @@ Before running the application, ensure you have the following installed:
     MONGO_URL=<your_mongodb_uri>
     PORT = 4000
     JWT_SECRET=<your_secret_key>
-    Replace <your_mongodb_uri> with the MongoDB connection string, and <your_secret_key> with a secure secret key for JWT authentication.
+
     Create a .env file in the client directory and add the following:
     REACT_APP_BASE_URL = http://localhost:4000
     
